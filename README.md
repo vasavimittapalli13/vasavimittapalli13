@@ -9,7 +9,7 @@
 - 🔭 Engaged in diverse projects, I immerse myself in the realms of Data Analysis, Machine Learning, Data Engineering, and Cloud-based Data Science applications, seeking to unravel patterns and insights from vast and intricate datasets.
 
 - ## 📫 How to reach me:
-- [LinkedIn URL:]((https://www.linkedin.com/in/vasavi-mittapalli/)) 
+- [LinkedIn URL: vasavimittapalli13-s-30b71195](https://www.linkedin.com/in/vasavi-mittapalli/)
 - Feel free to reach out to me via email at [vasavimittapalli2022@gmail.com].
 - Open to collaboration on exciting projects and initiatives.
   
@@ -69,4 +69,4 @@
 
 ## My Github Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Honey28Git&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vasavimittapalli13Git&theme=radical)](https://git.io/streak-stats)
