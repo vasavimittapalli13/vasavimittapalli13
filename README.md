@@ -9,7 +9,7 @@
 - 🔭 Engaged in diverse projects, I immerse myself in the realms of Data Analysis, Machine Learning, Data Engineering, and Cloud-based Data Science applications, seeking to unravel patterns and insights from vast and intricate datasets.
 
 - ## 📫 How to reach me:
-- [LinkedIn URL: vasavimittapalli13-s-30b71195](https://www.linkedin.com/in/vasavi-mittapalli/)
+- [LinkedIn URL: vasavimittapalli](https://www.linkedin.com/in/vasavi-mittapalli/)
 - Feel free to reach out to me via email at [vasavimittapalli2022@gmail.com].
 - Open to collaboration on exciting projects and initiatives.
   
@@ -66,7 +66,5 @@
 ![CNN](https://img.shields.io/badge/CNN-007396?style=for-the-badge&logo=python&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+[![vasavi's github stats](https://github-readme-stats.vercel.app/api?username=vasavimittapalli13&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/vasavimittapalli13?tab=repositories)
 
-## My Github Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vasavimittapalli13Git&theme=radical)](https://git.io/streak-stats)
